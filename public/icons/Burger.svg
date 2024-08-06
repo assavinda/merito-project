@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="148.49" y="242.32" width="727.02" height="72.32" rx="36.16" ry="36.16"/>
+  <rect class="cls-1" x="148.49" y="475.84" width="727.02" height="72.32" rx="36.16" ry="36.16"/>
+  <rect class="cls-1" x="148.49" y="709.36" width="727.02" height="72.32" rx="36.16" ry="36.16"/>
+</svg>
